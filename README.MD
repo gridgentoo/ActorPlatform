@@ -7,8 +7,8 @@
 </h3>
 <p align="center">
   Platform &bull; 
-  <a href="https://github.com/actorapp/actor-bootstrap">Bootstrap</a> &bull; 
-  <a href="https://github.com/actorapp/actor-bots">Bots</a>
+  <a href="https://github.com/gridgentoo/ActorBootstrap">Bootstrap</a> &bull; 
+  <a href="https://github.com/gridgentoo/ActorBots">Bots</a>
 </p>
 -------
 
