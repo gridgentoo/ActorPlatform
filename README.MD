@@ -1,10 +1,4 @@
-<h3 align="center">
-  <a href="https://github.com/actorapp/actor-platform">
-    <img src="docs/assets/Actor_Logo_New.png" width="150" />
-    <br />
-    Actor
-  </a>
-</h3>
+
 <p align="center">
   Platform &bull; 
   <a href="https://github.com/gridgentoo/ActorBootstrap">Bootstrap</a> &bull; 
